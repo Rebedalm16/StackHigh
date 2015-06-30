@@ -16,7 +16,7 @@ Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhigh_Data\Mana
 Loading C:\Users\Rebecca\Desktop\unityassignment1\stackhigh_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhigh_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\Rebecca\Desktop\unityassignment1\stackhigh_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.053 seconds
+- Completed reload, in  0.052 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
@@ -25,28 +25,24 @@ XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhigh_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhigh_Data\Managed\System.dll (this message is harmless)
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.513181 ms
+UnloadTime: 5.433780 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 252.
-Total: 0.217248 ms (FindLiveObjects: 0.017961 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.180470 ms  DeleteObjects: 0.004276 ms)
-
-OnTriggerEnter2D
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+Total: 0.289522 ms (FindLiveObjects: 0.025231 ms CreateObjectMapping: 0.020099 ms MarkObjects: 0.236065 ms  DeleteObjects: 0.007270 ms)
 
 OnTriggerEnter2D
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.078117 ms
+UnloadTime: 0.372914 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 284.
-Total: 0.288666 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.014540 ms MarkObjects: 0.241624 ms  DeleteObjects: 0.003848 ms)
+Total: 0.286956 ms (FindLiveObjects: 0.032074 ms CreateObjectMapping: 0.020099 ms MarkObjects: 0.230078 ms  DeleteObjects: 0.003848 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.660298 ms
+UnloadTime: 0.486243 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 285.
-Total: 0.552102 ms (FindLiveObjects: 0.065003 ms CreateObjectMapping: 0.043193 ms MarkObjects: 0.426799 ms  DeleteObjects: 0.014540 ms)
+Total: 0.351104 ms (FindLiveObjects: 0.024376 ms CreateObjectMapping: 0.025231 ms MarkObjects: 0.291660 ms  DeleteObjects: 0.008980 ms)
 
