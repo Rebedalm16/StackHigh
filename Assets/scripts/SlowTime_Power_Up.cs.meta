@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e777011af74c43f4283f9321c1ff7682
+timeCreated: 1435568434
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - slowTime_Power_Up: {fileID: 138160, guid: bbede3f99efa9924fa722da13a5c6f32, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

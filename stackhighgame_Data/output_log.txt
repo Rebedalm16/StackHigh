@@ -1,0 +1,60 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rebecca\Desktop\unityassignment1\stackhighgame_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.264713 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 250.
+Total: 0.424661 ms (FindLiveObjects: 0.022665 ms CreateObjectMapping: 0.016678 ms MarkObjects: 0.379757 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.306200 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.337419 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.015823 ms MarkObjects: 0.283962 ms  DeleteObjects: 0.009408 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.483677 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.252743 ms (FindLiveObjects: 0.026086 ms CreateObjectMapping: 0.009408 ms MarkObjects: 0.209978 ms  DeleteObjects: 0.006842 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.298930 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 212.
+Total: 0.418673 ms (FindLiveObjects: 0.032074 ms CreateObjectMapping: 0.012401 ms MarkObjects: 0.240769 ms  DeleteObjects: 0.132572 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.447326 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 228.
+Total: 0.282252 ms (FindLiveObjects: 0.020955 ms CreateObjectMapping: 0.019244 ms MarkObjects: 0.236920 ms  DeleteObjects: 0.004276 ms)
+

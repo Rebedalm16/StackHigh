@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 96093afeb19d92940ac91a59a1568606
+timeCreated: 1435568692
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - slow_Stop_Trigger: {fileID: 111806, guid: bbede3f99efa9924fa722da13a5c6f32, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
